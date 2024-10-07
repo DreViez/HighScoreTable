@@ -1,4 +1,4 @@
-#High Score Table
+#High Score Table#
 This is a simple console application in C# that allows users to input high scores, display them in unsorted order, and then sort them from highest to lowest. The program prompts the user to specify how many high scores they want to input, reads those scores, and displays the results in both unsorted and sorted forms.
 
 Table of Contents
